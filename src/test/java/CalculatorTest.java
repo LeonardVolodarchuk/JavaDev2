@@ -1,5 +1,3 @@
-package goit.test;
-
 import goit.calculator.SimpleCalculator;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
